@@ -60,6 +60,10 @@ sleep 1
 print_section "Generating Waveform"
 echo ""
 
+# Simulated waveform generation progress
+echo -e "${CYAN}၊၊||၊|။||||။‌‌‌|၊၊၊||၊။‌‌‌‌‌၊||၊။‌‌‌‌‌||||။|၊||၊၊${RESET}"
+echo ""
+
 # Generate the waveform
 audiowaveform -i "$output_dir/$filename" -o "$output_dir/$basename.json" --pixels-per-second 20 --bits 8 2>/dev/null
 
@@ -68,10 +72,6 @@ if [ ! -f "$output_dir/$basename.json" ]; then
   echo -e "${RED}${BOLD}Error:${RESET} Waveform generation failed."
   exit 1
 fi
-
-# Simulated waveform generation progress
-echo -e "${CYAN}၊၊||၊|။||||။‌‌‌|၊၊၊||၊။‌‌‌‌‌၊||၊။‌‌‌‌‌||||။|၊||၊၊${RESET}"
-echo ""
 
 # Sleep for 1 second to ensure waveform generation completes before normalization
 sleep 1
