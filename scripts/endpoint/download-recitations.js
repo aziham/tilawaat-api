@@ -9,7 +9,7 @@ const execPromise = promisify(exec);
 // Parse command line arguments
 const args = process.argv.slice(2);
 const isTestMode = args.includes('--test');
-const useAria = args.includes('--aria');
+const useAria = args.includes('--aria2c');
 
 // Read the recitations data
 const loadRecitations = async () => {
@@ -90,7 +90,7 @@ const downloadAllRecitations = async () => {
         await execPromise('aria2c --version');
       } catch (error) {
         console.error(
-          'Error: aria2c is not installed or not in PATH. Please install aria2c to use the --aria flag.'
+          'Error: aria2c is not installed or not in PATH. Please install aria2c to use the --aria2c flag.'
         );
         process.exit(1);
       }
@@ -109,14 +109,14 @@ const downloadAllRecitations = async () => {
       );
       await ensureDir(recitationDir);
 
-      // In test mode, download specific test chapters (1, 23, 114) if available
+      // In test mode, download specific test chapters (1, 99, 114) if available
       const chaptersToDownload = isTestMode
         ? [1, 99, 114].filter((id) => chapters.includes(id))
         : chapters;
 
       // Download each chapter MP3
       for (const chapterId of chaptersToDownload) {
-        // Format chapter ID with leading zeros (e.g., 001, 023, 114)
+        // Format chapter ID with leading zeros (e.g., 001, 099, 114)
         const paddedChapterId = chapterId.toString().padStart(3, '0');
         const mp3Url = `${server}${paddedChapterId}.mp3`;
         const outputPath = path.join(recitationDir, `${paddedChapterId}.mp3`);
