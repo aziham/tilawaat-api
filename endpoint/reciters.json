@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Ibrahim Al-Akdar",
+    "name": "Ibrahim Al Akhdar",
     "letter": "I"
   },
   {
@@ -11,92 +11,92 @@
   },
   {
     "id": 100,
-    "name": "Majed Al-Enezi",
+    "name": "Majed Al Enezi",
     "letter": "M"
   },
   {
     "id": 101,
-    "name": "Malik shaibat Alhamed",
+    "name": "Malik Shaibat Alhamed",
     "letter": "M"
   },
   {
     "id": 102,
-    "name": "Maher Al Meaqli",
+    "name": "Maher Al Mueaqly",
     "letter": "M"
   },
   {
     "id": 104,
-    "name": "Mohammad Al-Airawy",
+    "name": "Muhammad El Iraoui",
     "letter": "M"
   },
   {
     "id": 105,
-    "name": "Mohammed Al-Barrak",
+    "name": "Muhammad Al Barrak",
     "letter": "M"
   },
   {
     "id": 106,
-    "name": "Mohammad Al-Tablaway",
+    "name": "Muhammad Al Tablawi",
     "letter": "M"
   },
   {
     "id": 107,
-    "name": "Mohammed Al-Lohaidan",
+    "name": "Muhammad Al Luhaidan",
     "letter": "M"
   },
   {
     "id": 108,
-    "name": "Mohammed Al-Muhasny",
+    "name": "Muhammad Al Muhasny",
     "letter": "M"
   },
   {
     "id": 109,
-    "name": "Mohammed Ayyub",
+    "name": "Muhammad Ayyub",
     "letter": "M"
   },
   {
     "id": 110,
-    "name": "Mohammad Saleh Alim Shah",
+    "name": "Muhammad Saleh Alim Shah",
     "letter": "M"
   },
   {
     "id": 111,
-    "name": "Mohammed Jibreel",
+    "name": "Muhammad Jibreel",
     "letter": "M"
   },
   {
     "id": 112,
-    "name": "Mohammed Siddiq Al-Minshawi",
+    "name": "Muhammad Siddiq Al Minshawi",
     "letter": "M"
   },
   {
     "id": 115,
-    "name": "Mohammad Abdullkarem",
+    "name": "Muhammad AbdulKareem",
     "letter": "M"
   },
   {
     "id": 116,
-    "name": "Mohammad Al-Abdullah",
+    "name": "Muhammad AbdulHakim Saad Al Abdullah",
     "letter": "M"
   },
   {
     "id": 118,
-    "name": "Mahmoud Khalil Al-Hussary",
+    "name": "Mahmoud Khalil Al Hussary",
     "letter": "M"
   },
   {
     "id": 12,
-    "name": "Idrees Abkr",
+    "name": "Idris Abkar",
     "letter": "I"
   },
   {
     "id": 121,
-    "name": "Mahmoud Ali  Albanna",
+    "name": "Mahmoud Ali Albanna",
     "letter": "M"
   },
   {
     "id": 123,
-    "name": "Mishary Alafasi",
+    "name": "Mishary Rashid Alafasy",
     "letter": "M"
   },
   {
@@ -106,17 +106,17 @@
   },
   {
     "id": 126,
-    "name": "Mustafa Al-Lahoni",
+    "name": "Mustafa Al Lahouni",
     "letter": "M"
   },
   {
     "id": 127,
-    "name": "Mustafa raad Alazawy",
+    "name": "Mustafa Raad Alazawy",
     "letter": "M"
   },
   {
     "id": 128,
-    "name": "Muamar (From Indonesia)",
+    "name": "Muammar ZA",
     "letter": "M"
   },
   {
@@ -126,42 +126,42 @@
   },
   {
     "id": 13,
-    "name": "Alzain Mohammad Ahmad",
+    "name": "Alzain Muhammad Ahmad",
     "letter": "A"
   },
   {
     "id": 134,
-    "name": "Mohammad Saayed",
+    "name": "Muhammad Saayed",
     "letter": "M"
   },
   {
     "id": 135,
-    "name": "Abdulrahman Alsuwayid",
+    "name": "Abdulrahman Alswaiyd",
     "letter": "A"
   },
   {
     "id": 136,
-    "name": "Abdulelah bin Aoun",
+    "name": "Abdulelah Bin Aoun",
     "letter": "A"
   },
   {
     "id": 137,
-    "name": "Ahmad Talib bin Humaid",
+    "name": "Ahmad Talib Bin Humaid",
     "letter": "A"
   },
   {
     "id": 138,
-    "name": "Noreen Mohammad Siddiq",
+    "name": "Noreen Muhammad Siddiq",
     "letter": "N"
   },
   {
     "id": 139,
-    "name": "Majed Al-Zamil",
+    "name": "Majed Al Zamil",
     "letter": "M"
   },
   {
     "id": 14,
-    "name": "Al-Qaria Yassen",
+    "name": "Yassen Al Jazairi",
     "letter": "A"
   },
   {
@@ -171,17 +171,17 @@
   },
   {
     "id": 15,
-    "name": "Alashri Omran",
+    "name": "Al Ashry Omran",
     "letter": "A"
   },
   {
     "id": 150,
-    "name": "Mohammad AlMonshed",
+    "name": "Muhammad Al Monshed",
     "letter": "M"
   },
   {
     "id": 151,
-    "name": "Mahmood AlSheimy",
+    "name": "Mahmoud El Sheimy",
     "letter": "M"
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "id": 153,
-    "name": "Akhil Abdulhayy Rawa",
+    "name": "Akhil Abdulhay Rawa",
     "letter": "A"
   },
   {
@@ -206,12 +206,12 @@
   },
   {
     "id": 16,
-    "name": "Aloyoon Al-Koshi",
+    "name": "Al Ayoune Al Koshi",
     "letter": "A"
   },
   {
     "id": 160,
-    "name": "Adel Al-Khalbany",
+    "name": "Adel Al Kalbani",
     "letter": "A"
   },
   {
@@ -236,22 +236,22 @@
   },
   {
     "id": 165,
-    "name": "Mahmood Al rifai",
+    "name": "Mahmood Al Rifai",
     "letter": "M"
   },
   {
     "id": 166,
-    "name": "Nasser Al obaid",
+    "name": "Nasser Al Obaid",
     "letter": "N"
   },
   {
     "id": 167,
-    "name": "Wasel Almethen",
+    "name": "Wassel Almethen",
     "letter": "W"
   },
   {
     "id": 17,
-    "name": "Tawfeeq As-Sayegh",
+    "name": "Tawfeeq As Sayegh",
     "letter": "T"
   },
   {
@@ -275,19 +275,9 @@
     "letter": "R"
   },
   {
-    "id": 184,
-    "name": "Rogayah Sulong",
-    "letter": "R"
-  },
-  {
-    "id": 185,
-    "name": "Sapinah Mamat",
-    "letter": "S"
-  },
-  {
     "id": 187,
-    "name": "Saidin Abdulrahman",
-    "letter": "S"
+    "name": "Abdurrahman Sadien",
+    "letter": "A"
   },
   {
     "id": 188,
@@ -306,17 +296,17 @@
   },
   {
     "id": 190,
-    "name": "Muhammad Al-Hafiz",
+    "name": "Muhammad Al Hafiz",
     "letter": "M"
   },
   {
     "id": 191,
-    "name": "Mohammed Hafas Ali",
+    "name": "Muhammad Hafas Ali",
     "letter": "M"
   },
   {
     "id": 192,
-    "name": "Muhammed Khairul Anuar",
+    "name": "Muhammad Khairul Anuar",
     "letter": "M"
   },
   {
@@ -336,37 +326,37 @@
   },
   {
     "id": 198,
-    "name": "Mohammad Rashad Alshareef",
+    "name": "Muhammad Rashad Alshareef",
     "letter": "M"
   },
   {
     "id": 2,
-    "name": "Ibrahim Al-Jebreen",
+    "name": "Ibrahim Al Jibreen",
     "letter": "I"
   },
   {
     "id": 20,
-    "name": "Khalid Al-Jileel",
+    "name": "Khalid Al Jaleel",
     "letter": "K"
   },
   {
     "id": 201,
-    "name": "Ahmed Al-trabulsi",
+    "name": "Ahmad Khader Altarabulsi",
     "letter": "A"
   },
   {
     "id": 202,
-    "name": "Abdullah Al-Kandari",
+    "name": "Abdullah Al Kandari",
     "letter": "A"
   },
   {
     "id": 203,
-    "name": "Ahmed Amer",
+    "name": "Ahmad Amer",
     "letter": "A"
   },
   {
     "id": 204,
-    "name": "Ibrahem Assadan",
+    "name": "Ibrahim Assadan",
     "letter": "I"
   },
   {
@@ -376,7 +366,7 @@
   },
   {
     "id": 206,
-    "name": "Mohammed Osman Khan",
+    "name": "Muhammad Osman Khan",
     "letter": "M"
   },
   {
@@ -386,7 +376,7 @@
   },
   {
     "id": 208,
-    "name": "Addokali Mohammad Alalim",
+    "name": "Addokali Muhammad Al Alim",
     "letter": "A"
   },
   {
@@ -396,22 +386,22 @@
   },
   {
     "id": 21,
-    "name": "Khaled Al-Qahtani",
+    "name": "Khalid Al Qahtani",
     "letter": "K"
   },
   {
     "id": 211,
-    "name": "Alfateh Alzubair",
+    "name": "Al Fateh Muhammad Zubair",
     "letter": "A"
   },
   {
     "id": 21181,
-    "name": "Muhammad Burhaji",
+    "name": "Muhammad Barhaji",
     "letter": "M"
   },
   {
     "id": 21182,
-    "name": "Yusuf ALaidroos",
+    "name": "Yusuf Al Aidroos",
     "letter": "Y"
   },
   {
@@ -426,7 +416,7 @@
   },
   {
     "id": 21185,
-    "name": "Ahmed Albishr",
+    "name": "Ahmad Albishr",
     "letter": "A"
   },
   {
@@ -436,27 +426,27 @@
   },
   {
     "id": 212,
-    "name": "Tareq Abdulgani daawob",
+    "name": "Tareq Abdulgani Daawob",
     "letter": "T"
   },
   {
     "id": 216,
-    "name": "Othman Al-Ansary",
+    "name": "Othman Al Ansari",
     "letter": "O"
   },
   {
     "id": 217,
-    "name": "Bandar Balilah",
+    "name": "Bandar Baleela",
     "letter": "B"
   },
   {
     "id": 218,
-    "name": "Khalid Al-Shoraimy",
+    "name": "Khalid Alshoraimy",
     "letter": "K"
   },
   {
     "id": 219,
-    "name": "Wadeea Al-Yamani",
+    "name": "Wadee Al Yamani",
     "letter": "W"
   },
   {
@@ -471,32 +461,32 @@
   },
   {
     "id": 225,
-    "name": "Abdulrahman Aloosi",
+    "name": "Abdulrahman Jamal Aloosi",
     "letter": "A"
   },
   {
     "id": 226,
-    "name": "Khalid Algamdi",
+    "name": "Khalid Al Ghamdi",
     "letter": "K"
   },
   {
     "id": 227,
-    "name": "Ramadan Shakoor",
+    "name": "Ramadan Chakour",
     "letter": "R"
   },
   {
     "id": 228,
-    "name": "Abdulmajeed Al-Arkani",
+    "name": "Abdulmajeed Al Arkani",
     "letter": "A"
   },
   {
     "id": 229,
-    "name": "Mohammad Khalil Al-Qari",
+    "name": "Muhammad Khalil Al Qari",
     "letter": "M"
   },
   {
     "id": 23,
-    "name": "Khalid Al-Wehabi",
+    "name": "Khalid Al Wahaibi",
     "letter": "K"
   },
   {
@@ -506,12 +496,12 @@
   },
   {
     "id": 231,
-    "name": "Hazza Al-Balushi",
+    "name": "Hazza Al Balushi",
     "letter": "H"
   },
   {
     "id": 236,
-    "name": "Abdulrahman Al-Majed",
+    "name": "Abdulrahman Al Majed",
     "letter": "A"
   },
   {
@@ -521,7 +511,7 @@
   },
   {
     "id": 24,
-    "name": "Khalifa Altunaiji",
+    "name": "Khalifa Al Tunaiji",
     "letter": "K"
   },
   {
@@ -531,27 +521,27 @@
   },
   {
     "id": 241,
-    "name": "Mohammad Refat",
+    "name": "Muhammad Rifat",
     "letter": "M"
   },
   {
     "id": 243,
-    "name": "Abdullah Al-Mousa",
+    "name": "Abdullah Al Mousa",
     "letter": "A"
   },
   {
     "id": 244,
-    "name": "Abdullah Al-Khalaf",
+    "name": "Abdullah Al Khalaf",
     "letter": "A"
   },
   {
     "id": 245,
-    "name": "Mansour Al-Salemi",
+    "name": "Mansour Al Salimi",
     "letter": "M"
   },
   {
     "id": 246,
-    "name": "Salah Musali",
+    "name": "Salah Al Musli",
     "letter": "S"
   },
   {
@@ -561,7 +551,7 @@
   },
   {
     "id": 248,
-    "name": "Nasser Alosfor",
+    "name": "Nasser Al Osfor",
     "letter": "N"
   },
   {
@@ -571,17 +561,17 @@
   },
   {
     "id": 250,
-    "name": "Mohammad Albukheet",
+    "name": "Muhammad Al Bukheet",
     "letter": "M"
   },
   {
     "id": 251,
-    "name": "Nasser Almajed",
+    "name": "Nasser Al Majed",
     "letter": "N"
   },
   {
     "id": 252,
-    "name": "Ahmed Al-Swailem",
+    "name": "Ahmad Alswailem",
     "letter": "A"
   },
   {
@@ -591,17 +581,17 @@
   },
   {
     "id": 254,
-    "name": "Bader Alturki",
+    "name": "Badr Alturki",
     "letter": "B"
   },
   {
     "id": 255,
-    "name": "Hitham Aljadani",
+    "name": "Hitham Al Jadani",
     "letter": "H"
   },
   {
     "id": 256,
-    "name": "Ahmad Shaheen",
+    "name": "Ahmad Khalil Shaheen",
     "letter": "A"
   },
   {
@@ -611,17 +601,17 @@
   },
   {
     "id": 259,
-    "name": "Ahmad Al Nufais",
+    "name": "Ahmad Alnufais",
     "letter": "A"
   },
   {
     "id": 26,
-    "name": "Rasheed Ifrad",
+    "name": "Rachid Ifrad",
     "letter": "R"
   },
   {
     "id": 260,
-    "name": "Omar Al Darweez",
+    "name": "Omar Aldarweez",
     "letter": "O"
   },
   {
@@ -646,12 +636,12 @@
   },
   {
     "id": 268,
-    "name": "Peshawa Qadr Al-Kurdi",
+    "name": "Peshawa Qadr Al Kurdi",
     "letter": "P"
   },
   {
     "id": 27,
-    "name": "Rachid Belalya",
+    "name": "Rachid Belalia",
     "letter": "R"
   },
   {
@@ -666,7 +656,7 @@
   },
   {
     "id": 273,
-    "name": "Haitham Aldukhain",
+    "name": "Haitham Aldokhin",
     "letter": "H"
   },
   {
@@ -676,7 +666,7 @@
   },
   {
     "id": 275,
-    "name": "Mohammed Al-Amin Qeniwa",
+    "name": "Al Amin Muhammad Qeniwa",
     "letter": "M"
   },
   {
@@ -686,17 +676,17 @@
   },
   {
     "id": 278,
-    "name": "Ahmad Issa Al Maasaraawi",
+    "name": "Ahmed Issa Al Masrawi",
     "letter": "A"
   },
   {
     "id": 279,
-    "name": "Ibrahim Kshidan",
+    "name": "Ibrahim Kishidan",
     "letter": "I"
   },
   {
     "id": 28,
-    "name": "Zakaria Hamamah",
+    "name": "Zakaria Hamama",
     "letter": "Z"
   },
   {
@@ -706,7 +696,7 @@
   },
   {
     "id": 281,
-    "name": "Fouad Alkhamery",
+    "name": "Fouad Al Khamiri",
     "letter": "F"
   },
   {
@@ -716,27 +706,27 @@
   },
   {
     "id": 283,
-    "name": "Khalid Mohammadi",
+    "name": "Khalid Muhammadi",
     "letter": "K"
   },
   {
     "id": 284,
-    "name": "Mal-Allah Abdulrhman Aljaber",
+    "name": "Mal Allah Abdulrahman Al Jaber",
     "letter": "M"
   },
   {
     "id": 285,
-    "name": "Salman Alsadeiq",
+    "name": "Salman Seddeeq",
     "letter": "S"
   },
   {
     "id": 286,
-    "name": "Hasan Saleh",
+    "name": "Hassan Saleh",
     "letter": "H"
   },
   {
     "id": 287,
-    "name": "Abdulrahman Alshahhat",
+    "name": "Abdulrahman Alshahat",
     "letter": "A"
   },
   {
@@ -756,7 +746,7 @@
   },
   {
     "id": 290,
-    "name": "Saleh Alquraishi",
+    "name": "Saleh Al Quraishi",
     "letter": "S"
   },
   {
@@ -766,7 +756,7 @@
   },
   {
     "id": 30,
-    "name": "Saad Al-Ghamdi",
+    "name": "Saad Al Ghamdi",
     "letter": "S"
   },
   {
@@ -776,47 +766,47 @@
   },
   {
     "id": 301,
-    "name": "Faisal Al-Hajry",
+    "name": "Faisal Al Hajry",
     "letter": "F"
   },
   {
     "id": 302,
-    "name": "Anas Alemadi",
+    "name": "Anas Al Emadi",
     "letter": "A"
   },
   {
     "id": 303,
-    "name": "Abdulmalik Alaskar",
+    "name": "Abdulmalik Al Askar",
     "letter": "A"
   },
   {
     "id": 304,
-    "name": "Abdulkareem Alhazmi",
+    "name": "Abdulkareem Al Hazmi",
     "letter": "A"
   },
   {
     "id": 305,
-    "name": "Hicham Lharraz",
+    "name": "Hicham El Herraz",
     "letter": "H"
   },
   {
     "id": 306,
-    "name": "Abdullah Al-Mishal",
+    "name": "Abdullah Al Mishal",
     "letter": "A"
   },
   {
     "id": 307,
-    "name": "Abdelaziz sheim",
+    "name": "Abdelaziz Sheim",
     "letter": "A"
   },
   {
     "id": 31,
-    "name": "Saud Al-Shuraim",
+    "name": "Saud Alshuraim",
     "letter": "S"
   },
   {
     "id": 32,
-    "name": "Sahl Yassin",
+    "name": "Sahl Yasin",
     "letter": "S"
   },
   {
@@ -826,22 +816,22 @@
   },
   {
     "id": 34,
-    "name": "Sami Al-Hasn",
+    "name": "Sami Al Hassan",
     "letter": "S"
   },
   {
     "id": 35,
-    "name": "Sami Al-Dosari",
+    "name": "Sami Aldosari",
     "letter": "S"
   },
   {
     "id": 36,
-    "name": "Sayeed Ramadan",
+    "name": "Sayed Ramadan",
     "letter": "S"
   },
   {
     "id": 37,
-    "name": "Shaban Al-Sayiaad",
+    "name": "Shaban Abdulaziz Alsayyad",
     "letter": "S"
   },
   {
@@ -851,12 +841,12 @@
   },
   {
     "id": 39,
-    "name": "Saber Abdulhakm",
+    "name": "Saber Abdulhakam",
     "letter": "S"
   },
   {
     "id": 4,
-    "name": "Shaik Abu Bakr Al Shatri",
+    "name": "Abu Bakr Alshatri",
     "letter": "S"
   },
   {
@@ -866,52 +856,52 @@
   },
   {
     "id": 41,
-    "name": "Saleh Al-Talib",
+    "name": "Saleh Altalib",
     "letter": "S"
   },
   {
     "id": 42,
-    "name": "Saleh Al-Habdan",
+    "name": "Saleh Al Habdan",
     "letter": "S"
   },
   {
     "id": 43,
-    "name": "Salah Albudair",
+    "name": "Salah Al Budair",
     "letter": "S"
   },
   {
     "id": 44,
-    "name": "Salah Alhashim",
+    "name": "Salah Al Hashim",
     "letter": "S"
   },
   {
     "id": 46,
-    "name": "Slaah Bukhatir",
+    "name": "Salah Bukhatir",
     "letter": "S"
   },
   {
     "id": 47,
-    "name": "Mukhtar Al-Haj",
+    "name": "Mukhtar Al Haaj",
     "letter": "M"
   },
   {
     "id": 48,
-    "name": "Adel Ryyan",
+    "name": "Adel Rayan",
     "letter": "A"
   },
   {
     "id": 49,
-    "name": "Abdelbari Al-Toubayti",
+    "name": "Abdulbari Althubaity",
     "letter": "A"
   },
   {
     "id": 5,
-    "name": "Ahmad Al-Ajmy",
+    "name": "Ahmad Al Ajmi",
     "letter": "A"
   },
   {
     "id": 50,
-    "name": "Abdulbari Mohammad",
+    "name": "Abdulbari Muhammad",
     "letter": "A"
   },
   {
@@ -921,82 +911,82 @@
   },
   {
     "id": 54,
-    "name": "Abdulrahman Alsudaes",
+    "name": "Abdulrahman Alsudais",
     "letter": "A"
   },
   {
     "id": 55,
-    "name": "Abdul Aziz Al-Ahmad",
+    "name": "Abdulaziz Al Ahmed",
     "letter": "A"
   },
   {
     "id": 56,
-    "name": "Abdulaziz Az-Zahrani",
+    "name": "Abdulaziz Az Zahrani",
     "letter": "A"
   },
   {
     "id": 57,
-    "name": "Abdullah Al-Burimi",
+    "name": "Abdullah Al Buraimi",
     "letter": "A"
   },
   {
     "id": 58,
-    "name": "Abdullah Albuajan",
+    "name": "Abdullah Al Buaijan",
     "letter": "A"
   },
   {
     "id": 59,
-    "name": "Abdullah Al-Mattrod",
+    "name": "Abdullah Al Matroud",
     "letter": "A"
   },
   {
     "id": 6,
-    "name": "Ahmad Al-Hawashi",
+    "name": "Ahmad Al Hawashi",
     "letter": "A"
   },
   {
     "id": 60,
-    "name": "Abdullah Basfer",
+    "name": "Abdullah Basfar",
     "letter": "A"
   },
   {
     "id": 61,
-    "name": "Abdullah Khayyat",
+    "name": "Abdullah Khayat",
     "letter": "A"
   },
   {
     "id": 62,
-    "name": "Abdullah Al-Johany",
+    "name": "Abdullah Awad Al Juhany",
     "letter": "A"
   },
   {
     "id": 63,
-    "name": "Abdullah Qaulan",
+    "name": "Abdullah Ghailan",
     "letter": "A"
   },
   {
     "id": 64,
-    "name": "Abdulrasheed Soufi",
+    "name": "Abdulrachid Soufi",
     "letter": "A"
   },
   {
     "id": 66,
-    "name": "Abdulmohsin Al-Harthy",
+    "name": "Abdulmohsen Al Harthy",
     "letter": "A"
   },
   {
     "id": 67,
-    "name": "Abdulmohsen Al-Qasim",
+    "name": "Abdulmohsen Al Qasim",
     "letter": "A"
   },
   {
     "id": 68,
-    "name": "Abdulmohsin Al-Askar",
+    "name": "Abdulmohsen Al Askar",
     "letter": "A"
   },
   {
     "id": 69,
-    "name": "Abdulmohsin Al-Obaikan",
+    "name": "Abdulmohsen Al Obeikan",
     "letter": "A"
   },
   {
@@ -1016,33 +1006,33 @@
   },
   {
     "id": 72,
-    "name": "Abdulwali Al-Arkani",
+    "name": "Abdulwali Al Arkani",
     "letter": "A"
   },
   {
     "id": 73,
-    "name": "Ali Abo-Hashim",
+    "name": "Ali Abu Hashem",
     "letter": "A"
   },
   {
     "id": 74,
-    "name": "Ali Alhuthaifi",
+    "name": "Ali Al Hudhaify",
     "letter": "A"
   },
   {
     "id": 76,
-    "name": "Ali Jaber",
+    "name": "Ali Abdullah Jaber",
     "letter": "A"
   },
   {
     "id": 77,
-    "name": "Ali Hajjaj Alsouasi",
+    "name": "Ali Hajjaj Alsouissi",
     "letter": "A"
   },
   {
     "id": 78,
-    "name": "Emad Hafez",
-    "letter": "E"
+    "name": "Imad Zuhair Hafez",
+    "letter": "I"
   },
   {
     "id": 79,
@@ -1056,7 +1046,7 @@
   },
   {
     "id": 80,
-    "name": "Omar Al-Qazabri",
+    "name": "Omar Al Kazabri",
     "letter": "O"
   },
   {
@@ -1066,77 +1056,77 @@
   },
   {
     "id": 82,
-    "name": "Fahad Al-Otaibi",
+    "name": "Fahad Al Otaibi",
     "letter": "F"
   },
   {
     "id": 83,
-    "name": "Fahad Al-Kandari",
+    "name": "Fahad Al Kandari",
     "letter": "F"
   },
   {
     "id": 84,
-    "name": "Fawaz Alkabi",
+    "name": "Fawaz Al Kaabi",
     "letter": "F"
   },
   {
     "id": 85,
-    "name": "Lafi Al-Oni",
+    "name": "Lafi Al Oni",
     "letter": "L"
   },
   {
     "id": 86,
-    "name": "Nasser Alqatami",
+    "name": "Nasser Al Qatami",
     "letter": "N"
   },
   {
     "id": 87,
-    "name": "Nabil Al Rifay",
+    "name": "Nabil Ar Rifai",
     "letter": "N"
   },
   {
     "id": 88,
-    "name": "Neamah Al-Hassan",
+    "name": "Neamah Al Hassan",
     "letter": "N"
   },
   {
     "id": 89,
-    "name": "Hani Arrifai",
+    "name": "Hani Ar Rifai",
     "letter": "H"
   },
   {
     "id": 9,
-    "name": "Ahmad Nauina",
+    "name": "Ahmed Neinaa",
     "letter": "A"
   },
   {
     "id": 90,
-    "name": "Walid Al-Dulaimi",
+    "name": "Walid Aldulaimi",
     "letter": "W"
   },
   {
     "id": 91,
-    "name": "Waleed Alnaehi",
+    "name": "Walid Alnaehi",
     "letter": "W"
   },
   {
     "id": 92,
-    "name": "Yasser Al-Dosari",
+    "name": "Yasser Aldosari",
     "letter": "Y"
   },
   {
     "id": 93,
-    "name": "Yasser Al-Qurashi",
+    "name": "Yasser Al Qurashi",
     "letter": "Y"
   },
   {
     "id": 94,
-    "name": "Yasser Al-Faylakawi",
+    "name": "Yasser Al Faylakawi",
     "letter": "Y"
   },
   {
     "id": 95,
-    "name": "Yasser Al-Mazroyee",
+    "name": "Yasser Al Mazroyee",
     "letter": "Y"
   },
   {
