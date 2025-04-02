@@ -702,18 +702,6 @@
     "available_chapters": [3, 8, 33, 35]
   },
   {
-    "id": 184,
-    "narration_id": 1,
-    "server": "https://server12.mp3quran.net/malaysia/rogiah/",
-    "available_chapters": [36]
-  },
-  {
-    "id": 185,
-    "narration_id": 1,
-    "server": "https://server12.mp3quran.net/malaysia/mamat/",
-    "available_chapters": [3, 14, 21, 22]
-  },
-  {
     "id": 187,
     "narration_id": 1,
     "server": "https://server12.mp3quran.net/malaysia/sideen/",
