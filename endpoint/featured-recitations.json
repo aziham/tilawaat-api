@@ -3,100 +3,100 @@
     "id": 1,
     "reciter": {
       "name": "Hazza Al Balushi",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/231/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/231/photo.jpg"
     },
     "chapter_name": "Al-Hijr",
     "audio_src": "https://server11.mp3quran.net/hazza/015.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/231/waveforms/015.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/231/waveforms/015.json"
   },
   {
     "id": 2,
     "reciter": {
       "name": "Yasser Aldosari",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/92/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/92/photo.jpg"
     },
     "chapter_name": "Az-Zumar",
     "audio_src": "https://server11.mp3quran.net/yasser/039.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/92/waveforms/039.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/92/waveforms/039.json"
   },
   {
     "id": 3,
     "reciter": {
       "name": "Abdulrahman Alswaiyd",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/135/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/135/photo.jpg"
     },
     "chapter_name": "Az-Zukhruf",
     "audio_src": "https://server16.mp3quran.net/a_swaiyd/Rewayat-Hafs-A-n-Assem/043.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/135/waveforms/043.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/135/waveforms/043.json"
   },
   {
     "id": 4,
     "reciter": {
       "name": "Wadee Al Yamani",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/219/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/219/photo.jpg"
     },
     "chapter_name": "Sad",
     "audio_src": "https://server6.mp3quran.net/wdee3/038.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/219/waveforms/038.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/219/waveforms/038.json"
   },
   {
     "id": 5,
     "reciter": {
       "name": "Omar Al Kazabri",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/80/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/80/photo.jpg"
     },
     "chapter_name": "Ghafir",
     "audio_src": "https://server9.mp3quran.net/omar_warsh/040.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/80/waveforms/040.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/80/waveforms/040.json"
   },
   {
     "id": 6,
     "reciter": {
       "name": "Nasser Al Qatami",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/86/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/86/photo.jpg"
     },
     "chapter_name": "Taha",
     "audio_src": "https://server6.mp3quran.net/qtm/017.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/86/waveforms/017.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/86/waveforms/017.json"
   },
   {
     "id": 7,
     "reciter": {
       "name": "Abdelaziz Sheim",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/307/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/307/photo.jpg"
     },
     "chapter_name": "Luqman",
     "audio_src": "https://server16.mp3quran.net/a_sheim/Rewayat-Warsh-A-n-Nafi/031.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/307/waveforms/031.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/307/waveforms/031.json"
   },
   {
     "id": 8,
     "reciter": {
       "name": "Islam Sobhi",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/253/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/253/photo.jpg"
     },
     "chapter_name": "Al-Jinn",
     "audio_src": "https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/072.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/253/waveforms/072.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/253/waveforms/072.json"
   },
   {
     "id": 9,
     "reciter": {
       "name": "Al Ayoune Al Koshi",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/16/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/16/photo.jpg"
     },
     "chapter_name": "Al-Furqan",
     "audio_src": "https://server11.mp3quran.net/koshi/025.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/16/waveforms/025.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/16/waveforms/025.json"
   },
   {
     "id": 10,
     "reciter": {
       "name": "Hassan Saleh",
-      "photo_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/reciters/286/photo.jpg"
+      "photo_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/reciters/286/photo.jpg"
     },
     "chapter_name": "Maryam",
     "audio_src": "https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem/019.mp3",
-    "waveform_src": "https://cdn.jsdelivr.net/gh/aziham/tilawaat-api/data/recitations/286/waveforms/019.json"
+    "waveform_src": "https://raw.githubusercontent.com/aziham/tilawaat-api/refs/heads/main/data/recitations/286/waveforms/019.json"
   }
 ]
